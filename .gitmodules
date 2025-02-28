@@ -1,0 +1,11 @@
+
+
+[submodule "packages/form-helper"]
+	path = packages/form-helper
+	url = https://github.com/minh2uang/form-helper
+[submodule "apps/lang-learn"]
+	path = apps/lang-learn
+	url = https://github.com/minh2uang/lang-learn
+[submodule "apps/curriculum-vitae"]
+	path = apps/curriculum-vitae
+	url = https://github.com/minh2uang/curriculum-vitae
